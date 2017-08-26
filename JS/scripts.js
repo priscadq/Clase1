@@ -7,6 +7,19 @@ function mifuncion() {
 
 }
 
+
+/*function mifuncion2() {
+  alert("Desde Funcion2:" + local01);
+   if(nombre== "" && edad > 24);
+}
+
+
+function sumaloca(var1, var2) {
+  alert("El resultado es:" + (var1 + var2));
+}
+*/
+
+
 function sumaloca2(A, B) {
     if ( A > B ){
         alert("La suma es" + (A + B));
